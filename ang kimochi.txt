@@ -1,4 +1,4 @@
 nice
-nice
-good
-great
+bad
+best
+worst
